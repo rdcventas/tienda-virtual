@@ -1,0 +1,68 @@
+[
+  {
+    "categoria": "General",
+    "clave": "pr002",
+    "descripcion": "2xl varios colores",
+    "id": 2,
+    "imagen": "images/prod_2.jpg",
+    "nombre": "Unidad calza suplex ",
+    "precio": 30000.0,
+    "tipo": "producto",
+    "unidad": "Unidad"
+  },
+  {
+    "categoria": "General",
+    "clave": "pr001",
+    "descripcion": "tamaño unico varios colores",
+    "id": 1,
+    "imagen": "images/prod_1.jpg",
+    "nombre": "Unidad shorts morley",
+    "precio": 20000.0,
+    "tipo": "producto",
+    "unidad": "Unidad"
+  },
+  {
+    "categoria": "General",
+    "clave": "pr006",
+    "descripcion": "",
+    "id": 6,
+    "imagen": "images/prod_6.jpg",
+    "nombre": "blusa encaje de hilo",
+    "precio": 30000.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  },
+  {
+    "categoria": "General",
+    "clave": "pr003",
+    "descripcion": "",
+    "id": 3,
+    "imagen": "images/prod_3.jpg",
+    "nombre": "palazo liviano",
+    "precio": 35000.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  },
+  {
+    "categoria": "General",
+    "clave": "pr004",
+    "descripcion": "",
+    "id": 4,
+    "imagen": "images/prod_4.jpg",
+    "nombre": "shorts ciclista",
+    "precio": 30000.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  },
+  {
+    "categoria": "General",
+    "clave": "pr005",
+    "descripcion": "",
+    "id": 5,
+    "imagen": "images/prod_5.jpg",
+    "nombre": "shorts jordan",
+    "precio": 30000.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  }
+]
